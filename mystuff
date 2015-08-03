@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title></title>
+		
+		<link rel="stylesheet" type="text/css" href="/css/styles.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+	        	<li><a href="/">About</a></li>
+	        	<li><a href="/fimapp">FimApp</a></li>
+        		<li><a href="/lambhunt">LambHunt</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="main">
+        		<h1></h1>
+				<p><a href="/about"></a></p>
+    		</div>
+		</div>
+		<footer>
+    		<ul>
+        		<li><a href="mailto:tiia.suvanto@student.tut.fi">Email</a></li>
+        		<li><a href="https://github.com/woofdoof">github.com/woofdoof</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
